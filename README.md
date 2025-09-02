@@ -1,4 +1,4 @@
-# Ansible-Inventory-Verififier
+# Ansible-Inventory-Verifier
 Ensure that an ansible inventory lists accurate host information. 
 
 ## Usage
